@@ -1,0 +1,131 @@
+{
+    "stations":[
+        {
+            "id":0,
+            "name":"RNE Radio 1",
+            "stream":"https://crtve-ice-edge-2002-fra-eco-cdn.cast.addradio.de/crtve/rne1/mad/mp3/high",
+            "image":"img/radio1.jpg"
+        },
+        {
+            "id":1,
+            "name":"RNE Radio 3",
+            "stream":"https://crtve-ice-edge-2001-fra-eco-cdn.cast.addradio.de/crtve/rner3/main/mp3/high",
+            "image":"img/radio3.jpg"
+        },
+        {
+            "id":2,
+            "name":"RNE Radio 4",
+            "stream":"https://crtve-ice-edge-2001-fra-eco-cdn.cast.addradio.de/crtve/rner4/main/mp3/high",
+            "image":"img/radio4.jpg"
+        },
+        {
+            "id":3,
+            "name":"RNE Radio 5",
+            "stream":"https://crtve-ice-edge-2002-fra-eco-cdn.cast.addradio.de/crtve/rne5/mad/mp3/high",
+            "image":"img/radio5.jpg"
+        },
+         {
+            "id":4,
+            "name":"RNE Radio Clásica",
+            "stream":"https://crtve-ice-edge-2003-fra-eco-cdn.cast.addradio.de/crtve/rnerc/main/mp3/high",
+            "image":"img/rne radio clasica.jpg"
+        },
+        {
+            "id":5,
+            "name":"RNE Radio Exterior",
+            "stream":"https://crtve-ice-edge-2001-fra-eco-cdn.cast.addradio.de/crtve/rneree/main/mp3/high",
+            "image":"img/rne radio exterior.jpg"
+        },
+        {
+            "id":6,
+            "name":"Cadena Cope",
+            "stream":"http://net1-cope-rrcast.flumotion.com/cope/net1-low.mp3",
+            "image":"img/cope.jpg"
+        },
+        {
+            "id":7,
+            "name":"Rock FM",
+            "stream":"https://rockfm-cope-rrcast.flumotion.com/cope/rockfm-low.mp3",
+            "image":"img/rock fm.jpg"
+        },
+         {
+            "id":8,
+            "name":"Activa FM",
+            "stream":"https://stream.mediasector.es/radio/8000/activafm-valencia.mp3",
+            "image":"img/activa-fm.jpg"
+        },
+        {
+            "id":9,
+            "name":"Kiss FM",
+            "stream":"https://kissfm.kissfmradio.cires21.com/kissfm.mp3",
+            "image":"img/kiss fm.jpg"
+        },
+        {
+            "id":10,
+            "name":"Latino FM",
+            "stream":"http://185.23.192.118:8000/;stream.mp3",
+            "image":"img/cadena-latino.jpg"
+        },
+        {
+            "id":11,
+            "name":"Radio Marca",
+            "stream":"https://14833.live.streamtheworld.com/RADIOMARCA_NACIONAL.mp3",
+            "image":"img/radio marca.jpg"
+        },
+        {
+            "id":12,
+            "name":"40 Principales",
+            "stream":"https://22333.live.streamtheworld.com/LOS40_SC",
+            "image":"img/40-principales.jpg"
+        }, 
+        {
+            "id":13,
+            "name":"Cadena Dial",
+            "stream":"https://20863.live.streamtheworld.com/CADENADIAL.mp3",
+            "image":"img/cadena-dial.jpg"
+        },
+        {
+            "id":14,
+            "name":"Onda Cero",
+            "stream":"https://icecast-streaming.nice264.com/ondacero",
+            "image":"img/onda-cero.jpg"
+        },
+        {
+            "id":15,
+            "name":"Europa FM",
+            "stream":"https://icecast-streaming.nice264.com/europafmback",
+            "image":"img/europa-fm.jpg"
+        },
+        {
+            "id":16,
+            "name":"Ser",
+            "stream":"https://20423.live.streamtheworld.com/CADENASER_SC",
+            "image":"img/ser.jpg"
+        },
+        {
+            "id":17,
+            "name":"Cadena 100",
+            "stream":"https://cadena100-cope-rrcast.flumotion.com/cope/cadena100-low.mp3",
+            "image":"img/cadena-cien.jpg"
+        },
+        {
+            "id":18,
+            "name":"Catalunya Radio",
+            "stream":"https://shoutcast.ccma.cat/ccma/catalunyaradioHD.mp3",
+            "image":"img/catradio.jpg"
+        },
+        {
+            "id":19,
+            "name":"Rac 105",
+            "stream":"https://streaming.rac105.cat",
+            "image":"img/rac105.jpg"
+        },
+        {
+            "id":20,
+            "name":"Rac 1",
+            "stream":"https://streaming.rac1.cat/",
+            "image":"img/rac1.jpg"
+        }    
+    ]
+    
+}
